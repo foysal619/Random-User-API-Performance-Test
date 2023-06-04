@@ -1,10 +1,6 @@
 # Random-User-API-Performance-Test
 This repository contains the practise work of performance test with Jmeter
-
-This is a Jmeter project, where performance of [random-user](https://random-data-api.com/api/v2/users) api is tested.
-
 ---
-
 
 
 ### Tasks
@@ -22,5 +18,5 @@ Breakdown the expected TPS in excel sheet and find out the actual TPS (10)
 ### Load Test and TPS Breakdwon
 ![LoadTest](image/TPS.png)
 
-### Bottleneck / Stress test point
+### Stress test point
 ![StressTest](image/Stress%20Test.png)
